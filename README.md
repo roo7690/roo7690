@@ -2,5 +2,4 @@
 
 ## Profil
         Developpeur fullstack.
-        Plus café que thé (avec max de sucre).
-        Étudiant en Génie Informatique à l'UQTR.
+        Étudiant en Génie Informatique.
