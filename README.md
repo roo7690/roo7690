@@ -1,8 +1,8 @@
 # Hi, I'm Roosevelt 👋
 
-👨‍💻 Computer engineering student
-⚡ Exploring the space between curiosity and complexity.
-💡 Building stuff where tech meets ingenuity.
+👨‍💻 Computer engineering student.  
+⚡ Exploring the space between curiosity and complexity.  
+💡 Building stuff where tech meets ingenuity.  
 
 [![Web](https://img.shields.io/badge/Portfolio-leroo.io-111?logo=googlechrome)](https://leroo.io)
 [![Email](https://img.shields.io/badge/roosevelt@leroo.io-Email-0A66C2?logo=gmail)](mailto:roosevelt@leroo.io)
